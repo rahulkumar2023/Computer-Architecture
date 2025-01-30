@@ -98,10 +98,5 @@ cd your-repo-name
 
 ---
 
-## License  
-This project is released under the MIT License.  
-
----
-
 ## Author  
 Rahul Kumar
